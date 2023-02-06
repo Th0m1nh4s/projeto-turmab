@@ -1,1 +1,2 @@
 primeiros comando no Git bash
+testando auteração no arquivo
